@@ -1,0 +1,19 @@
+{
+  "uuid": "b562a3d5-8c69-4440-a4f6-6c8791f69df0",
+  "shortName": "SmartReps",
+  "longName": "SmartReps",
+  "companyName": "Beaming Labs",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
